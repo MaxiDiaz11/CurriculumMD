@@ -1,0 +1,16 @@
+.fondo {
+  background: rgb(79, 82, 97);
+  background: radial-gradient(
+    circle,
+    rgba(79, 82, 97, 1) 0%,
+    rgba(114, 114, 115, 1) 24%,
+    rgba(82, 82, 105, 1) 53%,
+    rgba(32, 32, 32, 1) 100%
+  );
+}
+
+.avatar{
+    height: 170px;
+    width: 170px;
+    border-radius: 100px;
+}
